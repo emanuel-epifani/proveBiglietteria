@@ -1,4 +1,4 @@
-package java.crud_bigliettera;
+package com.crud_bigliettera;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package java.crud_bigliettera.model.relations;
+package com.crud_bigliettera.model.relations;
 
 public class Biglietti_acquistati {
     private int id_utente;

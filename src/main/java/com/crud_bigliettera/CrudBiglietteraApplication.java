@@ -1,4 +1,4 @@
-package java.crud_bigliettera;
+package com.crud_bigliettera;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

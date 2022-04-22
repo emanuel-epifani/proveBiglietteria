@@ -1,4 +1,4 @@
-package java.crud_bigliettera.model.relations;
+package com.crud_bigliettera.model.relations;
 
 public class Biglietti_Disponibili {
     private int id_biglietteria;

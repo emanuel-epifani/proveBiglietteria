@@ -1,4 +1,4 @@
-package java.crud_bigliettera.model;
+package com.crud_bigliettera.model;
 
 public class Biglietto {
     private int id_biglietto;
